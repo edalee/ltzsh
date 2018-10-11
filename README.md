@@ -1,19 +1,20 @@
-slimzsh
+ltzsh Zsh
 =======
 
-A small, usable configuration for ZSH. 
-It enables all the awesomeness of ZSH with small and tidy config. 
+Base on ![slimzsh](https://github.com/changs/slimzsh) a small, usable configuration for ZSH. 
+This fork builds on the fast and elegant base of Slimzsh, but offers improved history substring search similar to Oh-my-zsh's.
+  
 
 # Install
 
 ```
-git clone --recursive https://github.com/changs/slimzsh.git ~/.slimzsh
+git clone --recursive https://github.com/edalee/lite_zsh_prompt.git ~/.ltzsh
 ```
 
 Add following to `~/.zshrc`
 
 ```
-source "$HOME/.slimzsh/slim.zsh"
+source "$HOME/.ltzsh/ltzsh.zsh"
 ```
 
 # Features
@@ -48,4 +49,3 @@ and so much more!
 
 The theme used in screenshots: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme)
 with the Ubuntu Mono 15pt font.
-
