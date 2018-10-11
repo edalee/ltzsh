@@ -1,7 +1,8 @@
 ltzsh Zsh
 =======
 
-Base on ![slimzsh](https://github.com/changs/slimzsh) a small, usable configuration for ZSH. 
+Base on [slimzsh](https://github.com/changs/slimzsh) a small, usable configuration for ZSH. 
+
 This fork builds on the fast and elegant base of Slimzsh, but offers improved history substring search similar to Oh-my-zsh's.
   
 
